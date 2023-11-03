@@ -1,0 +1,23 @@
+ignore-empty-password
+
+clock
+timestr=%R
+datestr=%a, %e of %B
+
+screenshots
+
+effect-blur=20x10
+effect-scale=0.3
+
+indicator
+indicator-radius=240
+indicator-thickness=20
+indicator-caps-lock
+
+key-hl-color=FFFFFF
+
+separator-color=00000000
+
+
+ring-color=1a1b26
+text-color=FFFFFF
